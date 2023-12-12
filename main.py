@@ -1,8 +1,9 @@
 import os
 from mat73 import loadmat
 path = '/home/maxpower/Documentos/SABIA_MAR/VISNIR/VISNIR/DATOS_CRUDOS/20231127_VisNir_INVAP'
-
-
+path = '/home/usuario/Documentos/MISION/CalVal/VisNir/20231127_VisNir_INVAP'
+path_new73= '/home/usuario/Documentos/MISION/CalVal/VisNir/new73'
+path = path_new73
 def buscar_archivos_mat_recursivo(ruta_directorio):
     archivos_mat = []
     for directorio_actual, _, archivos in os.walk(ruta_directorio):

@@ -1,27 +1,27 @@
-                            File                                                        Checked
+                            File                                                     Checked
 
-./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206120042.431.mat        |
-./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206113207.168.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206113049.174.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206101502.716.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B07/dark/dark_20231205080925.465.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B07/dark/dark_20231205093822.648.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205132214.732.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205135952.473.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205132923.423.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205120545.214.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205141749.492.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205161427.463.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205144931.476.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205144658.957.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231206095410.628.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231205163336.435.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231205170427.419.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231206083947.497.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205114314.468.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205102610.798.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205095610.548.mat
-./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205102625.549.mat
+./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206120042.431.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206113207.168.mat        |    ~ tint 4 ms, deberia ser de 10
+./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206113049.174.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B01/dark/dark_20231206101502.716.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B07/dark/dark_20231205080925.465.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B07/dark/dark_20231205093822.648.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205132214.732.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205135952.473.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205132923.423.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B02/dark/dark_20231205120545.214.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205141749.492.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205161427.463.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205144931.476.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B04/dark/dark_20231205144658.957.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231206095410.628.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231205163336.435.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231205170427.419.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B03/dark/dark_20231206083947.497.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205114314.468.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205102610.798.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205095610.548.mat        |    OK
+./20231127_VisNir_INVAP/EOM/Spectral/B06/dark/dark_20231205102625.549.mat        |    OK
 
 
 
