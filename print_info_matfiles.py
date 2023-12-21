@@ -25,7 +25,7 @@ def process_dark_folder(folder_path):
 
 
 # Ruta principal del directorio
-path = '20231127_VisNir_INVAP/EOM/Spectral/'
+path = '20231127_VisNir_INVAP_rev1.0/EOM/Spectral/'
 main_folder = MAIN_FOLDER+path
 
 # Procesa cada banda

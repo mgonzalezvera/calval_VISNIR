@@ -11,7 +11,7 @@ plt.style.use(['science'])
 plt.rcParams['text.usetex'] = True
 
 
-path = '/home/usuario/Documentos/MISION/CalVal/VisNir/20231127_VisNir_INVAP/EOM/Spectral/'
+path = '/home/usuario/Documentos/MISION/CalVal/VisNir/20231127_VisNir_INVAP_rev1.0/EOM/Spectral/'
 band = 'B01'
 
 path_band = path+band+'/dark/'
