@@ -1,3 +1,5 @@
+import glob
+
 import mat73
 import os
 
@@ -42,3 +44,11 @@ for band_folder in sorted(os.listdir(main_folder)):
         process_dark_folder(dark_folder)
     else:
         print("   - No se encontró la carpeta 'dark' en esta banda.")
+
+
+path = '/home/usuario/Documentos/MISION/CalVal/VisNir/20231127_VisNir_INVAP_rev1.0/EOM/Rad/dark/dark_pft150/*mat'
+import glob
+import mat73
+files_dark_rad = glob.glob(path)
+for file in sorted(files_dark_rad):
+    print(mat73.loadmat(file)['salida']['tiemposInt'])
