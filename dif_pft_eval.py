@@ -38,6 +38,7 @@ dirs_l1 = {
         'A78_ptf150/'
     ]
 }
+asdasdas
 def plot_bands_by_att(att):
     colores_espectro = ['violet', 'blue', 'cyan', 'green', 'yellow', 'orange', 'red', 'darkred', 'maroon',
                         'darkmagenta', 'darkblue']
